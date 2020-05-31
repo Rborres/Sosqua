@@ -1,6 +1,6 @@
 # Sosqua
 
-![alt text](https://github.com/oanlopezc/Sosqua/blob/master/Sosqua_Logo.jpeg){:height="50%" width="50%"}
+![alt text](https://github.com/oanlopezc/Sosqua/blob/master/Sosqua_Logo.jpeg)
 
 
 
@@ -8,4 +8,4 @@ Family farmers are core suppliers of food & nutrition. Around 60 million people 
 
 A way to support family farmers during and in the post-COVID crisis is by connecting them to local markets. Answering where, when and what products are going to be available and demanded in advance to starting up the supply chains. Monitoring crop status from the space by using vegetation indices allow us to track and account
 
-![alt text](https://github.com/oanlopezc/Sosqua/blob/master/Sosqua_Logo.jpeg)
+
