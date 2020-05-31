@@ -1,0 +1,62 @@
+.rangeslider {
+  position: relative;
+  bottom: -590;
+  right: 0;
+  width: 968;
+  margin: 0 auto;
+}
+
+.myslider {
+  -webkit-appearance: none;
+  background: #B45F04;
+  width: 100%;
+  height: 10px;
+  opacity: 1;
+  margin-top: 100px;
+}
+
+.myslider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  cursor: pointer;
+  background: #A5DF00;
+  width: 5.555%;
+  height: 10px;
+}
+
+.myslider:hover {
+  opacity: 1;
+}
+
+.image {
+  position: absolute;
+  width: 0px;
+  margin: 0 ;
+  opacity: 0.9;
+}
+
+.image>img {
+   position: relative;
+  align: center;
+  bottom: 0;
+  right: 0;
+  display: none;
+}
+
+.image>img.visible,
+.image>img:first-child {
+  display: block;
+}
+
+.sliderOutput>div {
+  margin: 0px;
+  width: 50;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+.sliderOutput h6,
+.sliderOutput p {
+  margin: 2px;
+  opacity: 1;
+}
