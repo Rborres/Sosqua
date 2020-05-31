@@ -9,10 +9,11 @@ Family farmers are core suppliers of food & nutrition. Around 60 million people 
 
 ## Solution
 
-A way to support family farmers during and in the post-COVID crisis is by connecting them to local markets. Answering where, when and what products are going to be available and demanded in advance to starting up the supply chains. Monitoring crop status from the space by using vegetation indices allow us to track and account
+A way to support family farmers during and in the post-COVID crisis is by connecting them to local markets. Answering where, when and what products are going to be available and demanded in advance to starting up the supply chains. Monitoring crop status from the space by using vegetation indices allow us to track and account.
 
 ## How?
 
-### Data Analysis 
-
+### Data Analysis
+The Sentinel and Planet data sets will be used as the source for data analysis. Images will be automatically sought, activated, and downloaded using either Planet Data API for Planet and Sentinel data or Aria2 only for Sentinel. As an example of this proccess is shown a Flowchart below.
+<div style="text-align:center"> <img src="Sosqua_General.png" width="100%"> </div>
 ### WebApp
