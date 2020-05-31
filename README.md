@@ -1,4 +1,4 @@
-# <center>Sosqua</center>
+<center># Sosqua</center>
 
 ![alt text](https://github.com/oanlopezc/Sosqua/blob/master/Sosqua_Logo.jpeg)
 
