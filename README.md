@@ -1,5 +1,5 @@
 # SOSQUA
-## Harvest Beyond Food
+**Harvest Beyond Food**
 
 <div style="text-align:center"> <img src="Sosqua_Logo.jpeg" width="100%"> </div>
 
