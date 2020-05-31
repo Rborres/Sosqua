@@ -3,7 +3,7 @@ _**Harvest Beyond Food**_
 
 <div style="text-align:center"> <img src="Sosqua_Logo.jpeg" width="100%"> </div>
 
-##Table of Contents
+## Table of Contents
 <!--ts-->
    * [Description of the Problem](#description-of-the-problem)
    * [Solution Brief](#solution)
