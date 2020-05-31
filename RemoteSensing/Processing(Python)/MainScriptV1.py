@@ -42,8 +42,8 @@ def index():
 	global evi
 	evi = np.true_divide(n-r,L+n+(C1*r)-(C2*b))
 	evi = evi*G
-	#with rt.open(datasets[dataset]+'_EVI.tif', 'w', **meta) as create:
-	#    create.write(evi.astype(rt.float32),1)
+	with rt.open(datasets[dataset]+'_EVI.tif', 'w', **meta) as create:
+	    create.write(evi.astype(rt.float32),1)
 
 def applyMask():
 	farmer = 1
