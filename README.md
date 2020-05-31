@@ -6,7 +6,7 @@ _**Harvest Beyond Food**_
 <!--ts-->
    * [gh-md-toc](#gh-md-toc)
    * [Table of contents](#table-of-contents)
-   * [Installation](## Description of the problem)
+   * [Description of the Problem](#description-of-the-problem)
    * [Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
