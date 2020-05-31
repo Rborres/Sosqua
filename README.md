@@ -14,7 +14,7 @@ A way to support family farmers during and in the post-COVID crisis is by connec
 ## How?
 
 ### Data Analysis
-The Sentinel and Planet data sets will be used as the source for data analysis. Images will be automatically sought, activated, and downloaded using either Planet Data API for Planet and Sentinel data or Aria2 only for Sentinel. As an example of this proccess is shown a Flowchart below.
+The Sentinel and Planet data sets will be used as the source for data analysis. Images will be automatically sought, activated, and downloaded using either Planet Data API for Planet and Sentinel data or Aria2 only for Sentinel. As an example of this proccess is shown a Flowchart below.                                                                                 
 <img src="Sosqua_General.png" width="35%">
 
 ### WebApp
