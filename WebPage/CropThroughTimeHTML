@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Sosqua</title>
+  <style>
+            .display-6
+            {
+                font-family:    Helvetica;
+                font-size:      8px;
+                font-weight:    bold;
+            }
+        </style>
+</head>
+<body>
+<div class="image mt-3 mb-3" id="sliderImages">
+  <img src="https://dl.dropboxusercontent.com/s/x6xtqhs39681qff/20191201.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/9jpfb46m2z4u90e/20191207.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/wnoxisu9hx5bpk1/20191217.png?dl=0" width="860" height="692">
+  
+  <img src="https://dl.dropboxusercontent.com/s/hk21q3zlj5xknr5/20191225.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/arf3yxavzfqdz96/20200106.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/x8lkbljmxisgvw6/20200129.png?dl=0" width="860" height="692">
+  
+<img src="https://dl.dropboxusercontent.com/s/c62tmcvmmkw9eph/20200205.png?dl=0" width="860" height="692">
+
+  
+  <img src="https://dl.dropboxusercontent.com/s/pypixop2lb2y190/20200212.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/oxmpjskibaq2mc2/20200221.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/pibnxbgpn5k6pti/20200302.png?dl=0" width="860" height="692">
+
+<img src="https://dl.dropboxusercontent.com/s/1dti7yoi1hee70j/20200306.png?dl=0" width="860" height="692">
+  
+  <img src="https://dl.dropboxusercontent.com/s/4o7ck8asdc6x0yc/20200308.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/cgqren4oag1mqdj/20200316.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/wft5o4f2i375fdr/20200325.png?dl=0" width="860" height="692">
+  
+  <img src="https://dl.dropboxusercontent.com/s/p3p42bda6xailkr/20200402.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/sf7tmscwy5nq5ay/20200414.png?dl=0" width="860" height="692">
+  <img src="https://dl.dropboxusercontent.com/s/ih6otj1h03v2zut/20200425.png?dl=0" width="860" height="692">
+  
+  <img src="https://dl.dropboxusercontent.com/s/he2qfgt9vm17yph/20200526.png?dl=0" width="860" height="692">
+    
+</div><br>
+<div class="rangeslider">
+  <input type="range" min="1" max="18" value="1" class="myslider" id="sliderRange">
+  <div class="sliderOutput row mt-3">
+    <div class="col-4">
+      <h6 class="display-6">01/12/2019</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">07/12/2019</h6>
+      <p class="demo"></p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">17/12/2019</h6>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">25/12/2019</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">06/01/2020</h6>
+      <p class="demo"></p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">29/01/2020</h6>
+    </div>
+        <div class="col-4">
+      <h6 class="display-6">05/02/2020</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">12/02/2020</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">21/02/2020</h6>
+      <p class="demo"></p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">02/03/2020</h6>
+    </div>
+        <div class="col-4">
+      <h6 class="display-6">06/03/2020</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">08/03/2020</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">16/03/2020</h6>
+      <p class="demo"></p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">25/03/2020</h6>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">02/04/2020</h6>
+      <p class="demo"> </p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">14/04/2020</h6>
+      <p class="demo"></p>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">25/04/2020</h6>
+    </div>
+    <div class="col-4">
+      <h6 class="display-6">26/05/2020</h6>
+      <p class="demo"> </p>
+    </div>
+   
+  </div>
+  </p>
+</div>
+</body>
+</html>
