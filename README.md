@@ -21,6 +21,6 @@ The Sentinel and Planet data sets will be used as the source for data analysis. 
 
 ### Pre-Processing and Processing
 
-<img src="Sosqua Pre-Processing Code.png" width="35%"><img src="Sosqua Processing.png" width="35%">
+<img src="Sosqua Pre-Processing Code.png" width="35%"><img src="Sosqua Processing Code.png" width="35%">
 
 ### WebApp
