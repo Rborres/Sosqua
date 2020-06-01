@@ -88,7 +88,7 @@ Four farms were chosen manually. Finally was obtained a raster which contains th
 <p align="center">
 <img src="MaskOverMap.png" width="50%">
 <br> 
-Mask pver the map
+Mask over the map
 </p>
 
 ### Processing
