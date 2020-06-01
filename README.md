@@ -1,8 +1,12 @@
 # SOSQUA
 _**Harvest Beyond Food**_
 
-<div style="text-align:center"> <img src="Sosqua_Logo.jpeg" width="100%"> </div>
-
+<img src="Sosqua_Logo.jpeg" width="100%"> 
+<br>
+<p align="center">
+_SOSQUA is a community-supported agriculture web-app that links family farmers and local markets, based on actual food production and demand. Harvesting time per farm is estimated by monitoring growing crop cycles using optical satellite imagery-series and deriving greenness vegetation indices. Besides, a non-supervised classification is performed to identify croplands, which is validated by the farmers through the customized mobile application. This platform can be accessed by local markets to check for product availability and to contact suggested farmers, based on their location and harvesting time. Also, government institutes can access the portal to monitor harvesting dynamics and control prices._
+</p>
+<br>
 ## Table of Contents
 <!--ts-->
    * [Description of the Problem](#description-of-the-problem)
