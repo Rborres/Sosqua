@@ -28,7 +28,7 @@ A way to support family farmers during and in the post-COVID crisis is by connec
 
 ## Pilot Test
 
-In order to contuct a concept study, a pilot test was developed for 4 farms. 
+In order to contuct a concept study, a pilot test was developed for 4 farms for the last 6 months.
 
 ### Choose a Place
 
@@ -43,23 +43,21 @@ Given these criteria facts it was selected a zone on the edge of the Tota's Lake
 
 -72.9711983508027373,5.5625967687025044 : -72.9368196774082804,5.5930036243900689
 
-<p align="center">
-<img src="Place.png" width="35%">
-Place Selected
-</p>
-
 
 ### Sentinel and Planet Imagery
 
 Both Sentinel 2A and PlanetScope Ortho Tiles imagery were used inthe pilot test.
 <p align="center">
-<img src="PlanetOrginal.png" width="35%">
-PlanetScope Imagery - 
+<img src="P_20200526.png" width="35%">
+<br> 
+PlanetScope Imagery - 26/May/2020
 </p>
 <p align="center">
-<img src="SentinelOriginal.png" width="35%">
-Place Selected
+<img src="S_20191217.png" width="35%">
+<br> 
+Sentinel 2A Imagery - 17/Dec/2019
 </p>
+
 ### Pre-Processing
 ### Mask
 ### Processing
