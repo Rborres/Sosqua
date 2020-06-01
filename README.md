@@ -98,8 +98,14 @@ Mask over the map
 
 ### Processing
 
-A python3 code was developed to process all the datasets. This code could be found it in Sosqua/RemoteSensing/Processing/MainCodev1.py.
-The code is based in a loop In each operation is opened a dataset, calculated the EVI, Saved the EVI in a raster and finally used the Mask.tif to obtain the  
+A python3 code was developed to process all the datasets. This code could be found it in Sosqua/RemoteSensing/Processing(Python)/MainCodeV1.py.
+The code is based in a loop In each operation is opened a dataset, calculated the EVI, Saved the EVI in a raster and finally used the Mask.tif to obtain the average of the EVI values per zone. 
+
+<p align="center">
+<img src="Images/Processing Flow Chart.png" width="50%">
+<br> 
+MainCodeV1.py Flowchart
+</p>
 
 ### Results
 
