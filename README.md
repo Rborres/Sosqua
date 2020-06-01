@@ -6,7 +6,7 @@ _**Harvest Beyond Food**_
 ## Table of Contents
 <!--ts-->
    * [Description of the Problem](#description-of-the-problem)
-   * [Solution Brief](#solution)
+   * [Solution Brief](#solution-brief)
    * [Pilot Test](#pilot-test)
       * [Choose a Place](#choose-a-place)
       * [Sentinel and Planet Imgery](#sentinel-and-planet-imagery)
