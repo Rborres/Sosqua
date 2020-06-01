@@ -53,12 +53,15 @@ Both Sentinel 2A and PlanetScope Ortho Tiles imagery were used inthe pilot test.
 PlanetScope Imagery - 26/May/2020
 </p>
 <p align="center">
-<img src="S_20191217.png" width="35%">
+<img src="S_20191217_B02.png" width="35%">
 <br> 
-Sentinel 2A Imagery - 17/Dec/2019
+Sentinel 2A Imagery Band 2 - 17/Dec/2019
 </p>
 
 ### Pre-Processing
+
+
+
 ### Mask
 ### Processing
 ### Results
