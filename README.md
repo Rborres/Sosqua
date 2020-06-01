@@ -39,15 +39,15 @@ In order to contuct a concept study, a pilot test was developed for 4 farms for 
 
 The criteria aspects in the selection of the place were:
 
-- Existence of family farming: Based in official data from Rural Agricultural Planning Unit (UPRA) of Colombia: https://sipra.upra.gov.co/
-- Kind of cultive: Cultives with more visual channge were prefered
+- Existence of family farming: Based on official data from Rural Agricultural Planning Unit (UPRA) of Colombia: https://sipra.upra.gov.co/
+- Kind of corps: Corps with more visual changes were prefered.
 - Availability of datasets for the place (Area coverage > 90%, Cloud cover < 45%)
-- Closeness to cities: Closer places were prefered due to transport facilities
+- Closeness to cities: Closer places were preferred due to transport facilities
 
-Given these criteria facts it was selected a zone on the edge of the Tota's Lake (Laguna de Tota) which include the municipality of Cuitiva. This zone is framed within the following coorners:
-
+Given these criteria facts, it was selected a zone on the edge of the Lake Tota (Laguna de Tota) which include the municipality of Cuitiva. This zone is framed within the following corners:
+<p align="center">
 -72.9711983508027373,5.5625967687025044 : -72.9368196774082804,5.5930036243900689
-
+</p>
 
 ### Sentinel and Planet Imagery
 
@@ -63,11 +63,17 @@ PlanetScope Imagery - 26/May/2020
 Sentinel 2A Imagery Band 2 - 17/Dec/2019
 </p>
 
+A total of 23 datasets were downloaded.
+
 ### Pre-Processing
 
 Each dataset was clipped using as extent the rectangle mentioned before:
+<p align="center">
 -72.9711983508027373,5.5625967687025044 : -72.9368196774082804,5.5930036243900689
+</p>  
+
 This operation was done using QGIS.
+
 <p align="center">
 <img src="Images/20200526_clip.png" width="35%">
 <br> 
@@ -76,8 +82,9 @@ PlanetScope Imagery - 26/May/2020 - Clip
 
 ### Mask
 
-In order to consolidate EVI averages per for the cultives, it is necesary to create a layer specifying the farm areas. As it was mentioned before, this is a test developed for 4 farms. 
-The mask was developed using the result of a supervised classification in QGIS (using the Semiatomatic-Classificaton Plug-in of QGIS), a predial bounds shapefile of the zone and, finally, a shapefile of the layer "Likely for Family Agriculture"  from: https://sipra.upra.gov.co/. 
+In order to consolidate EVI averages per for the farm areas, it is necessary to create a layer specifying the farm areas. As it was mentioned before, this is a test developed for 4 farms. 
+The mask was developed using the result of a supervised classification in QGIS (using the Semi-Automatic-Classification Plug-in of QGIS), a predial bounds shapefile of the zone and, finally, a shapefile of the layer "Likely for Family Agriculture"  from https://sipra.upra.gov.co/. 
+
 <p align="center">
 <img src="Images/Classification.png" width="50%">
 <br> 
