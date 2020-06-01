@@ -45,12 +45,21 @@ Given these criteria facts it was selected a zone on the edge of the Tota's Lake
 
 <p align="center">
 <img src="Place.png" width="35%">
-</p>
 Place Selected
+</p>
+
 
 ### Sentinel and Planet Imagery
 
-
+Both Sentinel 2A and PlanetScope Ortho Tiles imagery were used inthe pilot test.
+<p align="center">
+<img src="PlanetOrginal.png" width="35%">
+PlanetScope Imagery - 
+</p>
+<p align="center">
+<img src="SentinelOriginal.png" width="35%">
+Place Selected
+</p>
 ### Pre-Processing
 ### Mask
 ### Processing
