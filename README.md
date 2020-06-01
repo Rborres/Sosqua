@@ -109,7 +109,7 @@ A python3 code was developed to process all the datasets. This code could be fou
 The code is based in a loop In each operation is opened a dataset, calculated the EVI, Saved the EVI in a raster and finally used the Mask.tif to obtain the average of the EVI values per zone. 
 
 <p align="center">
-<img src="Images/Processing Flow Chart.jpg" width="50%">
+<img src="Images/Processing Flow Chart.png" width="50%">
 <br> 
 MainCodeV1.py Flowchart
 </p>
@@ -119,7 +119,7 @@ MainCodeV1.py Flowchart
 The output of the MainCodeV1.py is located in: 
 
 <p align="center">
-<img src="Images/EVI_Farms_Chart.jpeg" width="50%">
+<img src="Images/EVI_Farms_Chart.jpg" width="50%">
 <br> 
 MainCodeV1.py Flowchart
 </p>
@@ -129,7 +129,7 @@ MainCodeV1.py Flowchart
 It was designed and developed a base for the WebApp. It could be found here: https://github.com/oanlopezc/Sosqua/tree/master/maincode.sosqua
 
 <p align="center">
-<img src="Images/WebApp.png" width="50%">
+<img src="Images/WebApp.jpeg" width="50%">
 <br> 
 Farmer View
 </p>
