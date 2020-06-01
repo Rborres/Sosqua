@@ -119,7 +119,7 @@ MainCodeV1.py Flowchart
 The output of the MainCodeV1.py is located in: 
 
 <p align="center">
-<img src="Images/Results.png" width="50%">
+<img src="Images/EVI_Farms_Chart.png" width="50%">
 <br> 
 MainCodeV1.py Flowchart
 </p>
@@ -128,5 +128,10 @@ MainCodeV1.py Flowchart
 
 It was designed and developed a base for the WebApp. It could be found here: https://github.com/oanlopezc/Sosqua/tree/master/maincode.sosqua
 
+<p align="center">
+<img src="Images/Farmer View.png" width="50%">
+<br> 
+Farmer View
+</p>
 
 
