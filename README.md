@@ -116,6 +116,17 @@ MainCodeV1.py Flowchart
 
 ### Results
 
+The output of the MainCodeV1.py is located in: 
+
+<p align="center">
+<img src="Images/Results.png" width="50%">
+<br> 
+MainCodeV1.py Flowchart
+</p>
 
 ### WebApp
+
+It was designed and developed a base for the WebApp. It could be found here: https://github.com/oanlopezc/Sosqua/tree/master/maincode.sosqua
+
+
 
