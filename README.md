@@ -21,7 +21,6 @@ SOSQUA is a community-supported agriculture web-app that links family farmers an
       * [Processing](#processing)
       * [Results](#results)
       * [WebApp](#webapp)
-   * [Future](#tests)
 <!--te-->
 
 ## Description of the problem
@@ -102,21 +101,5 @@ Mask over the map
 
 ### Results
 
-### WebApp
-
-
-## Future
-
-### Getting the data
-The Sentinel and Planet data sets will be used as the source for data analysis. Images will be automatically sought, activated, and downloaded using either Planet Data API for Planet and Sentinel data or Aria2 only for Sentinel. As an example of this proccess a flowchart is shown below.
-<p align="center">
-<img src="Sosqua_General.png" width="35%">
-</p>
-
-### Pre-Processing and Processing
-
-<p align="center">
-<img src="Sosqua Pre-Processing Code.png" width="35%">             <img src="Sosqua Processing Code.png" width="35%">
-</p>
 
 ### WebApp
