@@ -77,7 +77,7 @@ PlanetScope Imagery - 26/May/2020 - Clip
 ### Mask
 
 In order to consolidate EVI averages per for the cultives, it is necesary to create a layer specifying the farm areas. As it was mentioned before, this is a test developed for 4 farms. 
-The mask was developed using the result of a classification non-supervised in QGIS (using the Semiatomatic-Classificaton Plug-in of QGIS), a predial bounds shape file of the zone and, finally, a raster of the layer "Likely for Family Agriculture"  from: https://sipra.upra.gov.co/. 
+The mask was developed using the result of a supervised classification in QGIS (using the Semiatomatic-Classificaton Plug-in of QGIS), a predial bounds shapefile of the zone and, finally, a shapefile of the layer "Likely for Family Agriculture"  from: https://sipra.upra.gov.co/. 
 <p align="center">
 <img src="Images/Classification.png" width="50%">
 <br> 
