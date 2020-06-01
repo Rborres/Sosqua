@@ -28,8 +28,29 @@ A way to support family farmers during and in the post-COVID crisis is by connec
 
 ## Pilot Test
 
+In order to contuct a concept study, a pilot test was developed for 4 farms. 
+
 ### Choose a Place
+
+The criteria aspects in the selection of the place were:
+
+- Existence of family farming: Based in official data from Rural Agricultural Planning Unit (UPRA) of Colombia: https://sipra.upra.gov.co/
+- Kind of cultive: Cultives with more visual channge were prefered
+- Availability of datasets for the place (Area coverage > 90%, Cloud cover < 45%)
+- Closeness to cities: Closer places were prefered due to transport facilities
+
+Given these criteria facts it was selected a zone on the edge of the Tota's Lake (Laguna de Tota) which include the municipality of Cuitiva. This zone is framed within the following coorners:
+
+-72.9711983508027373,5.5625967687025044 : -72.9368196774082804,5.5930036243900689
+
+<p align="center">
+<img src="Place.png" width="35%">
+</p>
+Place Selected
+
 ### Sentinel and Planet Imagery
+
+
 ### Pre-Processing
 ### Mask
 ### Processing
