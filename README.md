@@ -1,7 +1,7 @@
 # SOSQUA
 _**Harvest Beyond Food**_
 
-<img src="Sosqua_Logo.jpeg" width="100%"> 
+<img src="images/Sosqua_Logo.jpeg" width="100%"> 
 <br>
 <p align="center">
 SOSQUA is a community-supported agriculture web-app that links family farmers and local markets, based on actual food production and demand. Harvesting time per farm is estimated by monitoring growing crop cycles using optical satellite imagery-series and deriving greenness vegetation indices. Besides, a non-supervised classification is performed to identify croplands, which is validated by the farmers through the customized mobile application. This platform can be accessed by local markets to check for product availability and to contact suggested farmers, based on their location and harvesting time. Also, government institutes can access the portal to monitor harvesting dynamics and control prices.
@@ -54,12 +54,12 @@ Given these criteria facts it was selected a zone on the edge of the Tota's Lake
 
 Both Sentinel 2A and PlanetScope Ortho Tiles imagery were used in the pilot test.
 <p align="center">
-<img src="P_20200526.png" width="50%">
+<img src="images/P_20200526.png" width="50%">
 <br> 
 PlanetScope Imagery - 26/May/2020
 </p>
 <p align="center">
-<img src="S_20191217_B02.png" width="50%">
+<img src="images/S_20191217_B02.png" width="50%">
 <br> 
 Sentinel 2A Imagery Band 2 - 17/Dec/2019
 </p>
@@ -70,7 +70,7 @@ Each dataset was clipped using as extent the rectangle mentioned before:
 -72.9711983508027373,5.5625967687025044 : -72.9368196774082804,5.5930036243900689
 This operation was done using QGIS.
 <p align="center">
-<img src="20200526_clip.png" width="35%">
+<img src="images/20200526_clip.png" width="35%">
 <br> 
 PlanetScope Imagery - 26/May/2020 - Clip
 </p>
@@ -80,19 +80,19 @@ PlanetScope Imagery - 26/May/2020 - Clip
 In order to consolidate EVI averages per for the cultives, it is necesary to create a layer specifying the farm areas. As it was mentioned before, this is a test developed for 4 farms. 
 The mask was developed using the result of a classification non-supervised in QGIS (using the Semiatomatic-Classificaton Plug-in of QGIS), a predial bounds shape file of the zone and, finally, a raster of the layer "Likely for Family Agriculture"  from: https://sipra.upra.gov.co/. 
 <p align="center">
-<img src="Classification.png" width="50%">
+<img src="images/Classification.png" width="50%">
 <br> 
 Classifcation using Semi-Automatic-Classification plug-in- QGIS
 </p>
 <p align="center">
-<img src="Predial.png" width="50%">
+<img src="images/Predial.png" width="50%">
 <br> 
 Predial Shape file
 </p>
 
 Four farms were chosen manually. Finally was obtained a raster which contains the 4 areas. This raster can be found in Sosqua/RemoteSensing/Mask/Mask.tif
 <p align="center">
-<img src="MaskOverMap.png" width="50%">
+<img src="images/MaskOverMap.png" width="50%">
 <br> 
 Mask over the map
 </p>
