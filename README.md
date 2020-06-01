@@ -48,12 +48,12 @@ Given these criteria facts it was selected a zone on the edge of the Tota's Lake
 
 Both Sentinel 2A and PlanetScope Ortho Tiles imagery were used in the pilot test.
 <p align="center">
-<img src="P_20200526.png" width="35%">
+<img src="P_20200526.png" width="50%">
 <br> 
 PlanetScope Imagery - 26/May/2020
 </p>
 <p align="center">
-<img src="S_20191217_B02.png" width="35%">
+<img src="S_20191217_B02.png" width="50%">
 <br> 
 Sentinel 2A Imagery Band 2 - 17/Dec/2019
 </p>
@@ -95,12 +95,8 @@ Mask over the map
 
 
 ### Results
+
 ### WebApp
-
-
-
-
-
 
 
 ## Future
