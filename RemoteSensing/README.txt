@@ -1,1 +1,1 @@
-Here you can find anything related to the imagery analisys
+Here you can find anything related to the imagery analysis
